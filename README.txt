@@ -5,7 +5,7 @@ Overview:
 3. Swagger configuration added to solution to run and verify the solution
 4. Implemented 2 endpoints 2 calculate avg usage of tablet and avg usage of tablet for acadamy
 5. Considered below scenarios for Avg calculation:
-    Scenario 1:
+    Scenario 1:    
       Initial reading : 50 (2019-05-17T09:00:00)
       Next Readings : 
       60(2019-05-17T10:00:00)
