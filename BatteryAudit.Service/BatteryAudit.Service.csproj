@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BatteryAudit.Models\BatteryAudit.Models.csproj" />
+    <ProjectReference Include="..\BatteryAudit.Repository\BatteryAudit.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
